@@ -1,0 +1,11 @@
+https://www.quora.com/What-are-the-best-ways-to-pick-up-Deep-Learning-skills-as-an-engineer
+
+It’s important to get the fundamentals before you start playing around with tools like Theano, TensorFlow, Torch, etc.
+
+Andrew Ng’s Coursera course is a great start for the fundamentals - Machine Learning | Coursera
+Michael Nielsen’s book (Neural networks and deep learning) is a good addendum for the Coursera videos.
+Nvidia has a good set of ‘getting started’ type videos for Caffe, Torch and Theano (Self-Study Courses for Deep Learning). Watch the videos and play-around with the associated IPython notebook tutorials. They are really good introductions to the frameworks.
+Nvidia’s ‘Deep Learning In a Nutshell’ blog series (Deep Learning in a Nutshell: Core Concepts) is a good high-level overview of the important concepts in Deep Learning. Once you understand the fundamentals of neural networks, most of this should make sense.
+Andrej Karpathy’s (Andrej Karpathy blog) and Chris Olah’s (Home - colah's blog) blogs are great for learning more about RNNs, LSTMs, and practical applications of Deep Learning. I found Chris Olah’s blogpost on backprop (Calculus on Computational Graphs: Backpropagation) to be a great read.
+Checkout the TensorFlow (http://download.tensorflow.org/p...), Theano (http://www.iro.umontreal.ca/~lis...) and Torch (http://ronan.collobert.com/pub/m...) papers to get an understanding of the problems these frameworks are trying to solve.
+This is mostly how I got started. You’ll be surprised with how easily accessible Deep Learning actually is once you get the fundamentals right. The Coursera videos and Michael Nielsen’s book helped me a lot here. Also, Greg Brockman has posted a list of his resources here: gdb/kaggle.
